@@ -13,13 +13,13 @@
  // Taller: Definir tres variables, asignarles valores y utilizar decisiones para imprimir en la consola la que tenga el mayor valor
  console.log("Ejercicio 2************")
  
- let x = 4455;
- let y = 555;
- let z = 888545;
+ let x = 10;
+ let y = 150;
+ let z = 888888;
 
  console.log(`Dadas las siguientes variables: (x=${x}), (y=${y}), (z=${z}), la variable mayor es:`)
  
- if(x > y && x > y){
+ if(x > y && x > z){
     console.log(`X=${x}`)
 }else{
     if(y > z && y > x){
